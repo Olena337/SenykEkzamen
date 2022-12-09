@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenykEkzamen", "SenykEkzamen\SenykEkzamen.csproj", "{A873D322-A0EE-40F6-84EB-B90E99FECEF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenykEkzamen_", "..\SenykEkzamen_\SenykEkzamen_.csproj", "{CA976CFA-846E-41B5-B979-A6575D42A99A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A873D322-A0EE-40F6-84EB-B90E99FECEF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A873D322-A0EE-40F6-84EB-B90E99FECEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A873D322-A0EE-40F6-84EB-B90E99FECEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A873D322-A0EE-40F6-84EB-B90E99FECEF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA976CFA-846E-41B5-B979-A6575D42A99A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA976CFA-846E-41B5-B979-A6575D42A99A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA976CFA-846E-41B5-B979-A6575D42A99A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA976CFA-846E-41B5-B979-A6575D42A99A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C9C1AD2-BBBC-4801-87A0-3029C91A01FB}
+	EndGlobalSection
+EndGlobal
